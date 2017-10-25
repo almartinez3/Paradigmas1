@@ -1,2 +1,2 @@
-# Paradigmas1
+# Proyecto paradigmas de programacion
 java

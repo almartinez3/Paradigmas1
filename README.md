@@ -1,2 +1,2 @@
 # Proyecto paradigmas de programacion
-java
+descripcion nueva
